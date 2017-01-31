@@ -1,0 +1,23 @@
+Antes KCFCryptoManager.Create
+Antes CoSLCCryptoPlatform.Create
+Antes detectUSBCryptoDisks;
+Antes FCryptoPlatForm.getSignatureManager
+Antes TCertificateAR.Create
+Antes FCertificateAr.SignatureManager:=FSIgnatureManager;
+Antes IrA(Titular);
+loadData()
+cambiaEstadoDS
+DM.OnSaveData
+Load configFile
+postCreate(m);
+BB inicializado
+BB inicializada
+countUSBCryptoDisks=2
+Token=0 Cert=0 Global Index=0
+Text=JUAN CARLOS SEPULVEDA PEÑA(1509164123-537131172368470848)
+Token=1 Cert=0 Global Index=1
+Text=HECTOR PRUEBA PRUEBA(1243123622-929900105362832768)
+Token=1 Cert=1 Global Index=2
+Text=ENRIC CASTILLO FONT-38882319Z(1243123622-245248615473084864)
+Token=1 Cert=2 Global Index=3
+Text=ENRIC CASTILLO FONT-38882319Z(1243123622-657360695988889856)
